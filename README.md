@@ -84,12 +84,15 @@ Recognized symbols
 <td>.-..-.</td><td>"</td></tr>
 <tr><td>---...</td><td>:</td>
 <td>.-.-.-.</td><td>;</td>
-<td>.-----</td><td>Macro 1</td></tr>
-<tr><td>..----</td><td>Macro 2</td>
-<td>...---</td><td>Macro 3</td>
-<td>....--</td><td>Macro 4</td></tr>
-<tr><td>.....-</td><td>Macro 5</td>
-<td></td><td></td>
+<td>....-.</td><td>CapsLock</td></tr>
+<tr><td>.-.-</td><td>New line</td>
+<td>..--</td><td>Space</td>
+<td>----</td><td>Backspace</td></tr>
+<tr><td>.-----</td><td>Macro 1</td>
+<td>..----</td><td>Macro 2</td>
+<td>...---</td><td>Macro 3</td></tr>
+<tr><td>....--</td><td>Macro 4</td>
+<td>.....-</td><td>Macro 5</td>
 <td></td><td></td></tr>
 </table>
 
