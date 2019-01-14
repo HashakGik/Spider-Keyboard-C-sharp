@@ -1,0 +1,7 @@
+*~
+SpiderKeyboard/obj
+SpiderKeyboard/bin/Debug
+SpiderKeyboard/bin/Release/*.config
+SpiderKeyboard/bin/Release/*.pdb
+SpiderKeyboard/bin/Release/*.vshost.exe
+SpiderKeyboard/bin/Release/*.manifest
